@@ -14,4 +14,4 @@ Note: Historical TIC program documentation has been archived to the TIC page on 
 ## Sites and Links
 Official TIC Homepage https://www.cisa.gov/trusted-internet-connections
 
-TIC 3.0 Information for federal agencies https://community.max.gov/display/Egov/Trusted+Internet+Connections+3.0
+TIC 3.0 Information for federal agencies https://community.max.gov/x/I4R_Ew
