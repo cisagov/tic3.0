@@ -10,8 +10,8 @@ The updated draft TIC guidance provides agencies with the flexibility to secure 
 
 Note: Historical TIC program documentation has been archived to the TIC page on [OMB MAX](https://community.max.gov/x/I4R_Ew).
 
-## Guidance Documents
-The following draft TIC guidance documents are sequential in nature and should be read in the following order to gain a complete understanding of the modernized initiative: 
+## Documents for Public Comment
+The following documents are open for public comment. 
 
 1. **Program Guidebook (Volume 1) –** Outlines the modernized TIC program and includes its historical context
 2. **Reference Architecture (Volume 2) –** Defines the concepts of the program to guide and constrain the diverse implementations of the security capabilities
@@ -21,10 +21,27 @@ The following draft TIC guidance documents are sequential in nature and should b
    * **Branch Office Use Case –** Describes the architecture and security capabilities guidance for remote offices
 5. **Service Provider Overlay Handbook (Volume 5) –** Introduces overlays, which map the security functions of a service provider to the TIC capabilities
    * Overlays are under development and will be released at a later date
-      
-The use cases, overlays, and security capabilities are going to continue to be developed, including those listed in [OMB Memorandum M-19-26](https://www.whitehouse.gov/wp-content/uploads/2019/09/M-19-26.pdf). CISA expects to post updates to the Security Capabilities Handbook, and additional TIC Use Cases, to the [CISA website](https://www.cisa.gov/trusted-internet-connections) as they become available. CISA is coordinating with the Federal Chief Information Security Officers Council TIC Subcommittee to develop use cases above and beyond those listed in the memoranda, including use cases for zero trust, partner networks, and other pertinent scenarios. The TIC PMO is collaborating with cloud and other service providers to develop the overlays. Agencies should refer to the [Service Provider Overlay Repository](https://github.com/cisagov/tic3.0/blob/SPOverlay/README.md) on GitHub to retrieve overlays produced by third-party service providers. 
+6. **Pilot Process Handbook -** Establishes a framework for agencies to execute pilots
+7. **NCPS Cloud Reference Architecture -** Explains how agencies can satisfy CISA's EINSTEIN cloud requirements*
 
-The TIC Use Cases posted to this site are not an exhaustive representation of all the scenarios agencies may wish to consider when securing their environments. Agencies are encouraged to combine uses cases, as appropriate, to suit their needs.
+Additional information regarding TIC 3.0  documentation can be found on the [CISA website](https://www.cisa.gov/trusted-internet-connections).
+
+_*The National Cybersecurity Protection System (NCPS) is supporting the TIC modernization efforts via the release of its Cloud Interface Reference Architecture. Additional information regarding NCPS can be found on [the program’s CISA web page](https://www.cisa.gov/national-cybersecurity-protection-system-ncps)._
+
+## Comments & Key Questions
+CISA is interested in gathering agency responses focused on the following key questions: 
+1.	How does your agency expect to utilize the updated TIC guidance to modernize and secure its environments?
+2.	How does your agency expect to adopt the TIC Use Cases?
+3.	Does your agency have any suggestions for other use cases?
+4.	Are there additional documents or artifacts that would be helpful to agencies when implementing the TIC guidance? 
+
+You may contribute in two ways:
+
+1. **Issues (GitHub):** Content discussions are welcome via “issues.” Each issue is a conversation initiated by a member of the public. We encourage you to [join discussions](https://github.com/cisagov/cyber.dhs.gov/issues) about existing issues, or start a new conversation by opening a [new issue](TBD) (you may be prompted to log in).
+
+2. **Email:** Send comments, content suggestions, or proposed revisions via email at tic@cisa.dhs.gov. All comments received via email will be posted publicly as a GitHub issue. (Your contact information will not be shared, though you will be identified by name and with any affiliation you offer.)
+
+The deadline for submitting comments is 11:59 PM EST on January 31, 2020.
 
 ## Sites and Links
 Official TIC Homepage https://www.cisa.gov/trusted-internet-connections
