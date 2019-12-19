@@ -18,7 +18,7 @@ CISA is interested in gathering agency responses focused on the following key qu
 ## How to Contribute
 You may contribute in two ways:
 
-1. **Issues [(GitHub)](https://github.com/cisagov/tic3.0/issues):** Content discussions are welcome via “issues.” Each issue is a conversation initiated by a member of the public. We encourage you to join discussions about existing issues, or start a new conversation by opening a [new issue](https://github.com/cisagov/tic3.0/issues) (you may be prompted to log in).
+1. **Issues [(GitHub)](https://github.com/cisagov/tic3.0/issues):** Content discussions are welcome via “issues.” Each issue is a conversation initiated by a member of the public. We encourage you to [join discussions](https://github.com/cisagov/tic3.0/issues) about existing issues, or start a new conversation by opening a [new issue](https://github.com/cisagov/tic3.0/issues/new) (you may be prompted to log in).
 
 2. **Email:** Send comments, content suggestions, or proposed revisions via email at tic@cisa.dhs.gov. All comments received via email will be posted publicly as a GitHub issue. (Your contact information will not be shared, though you will be identified by name and with any affiliation you offer.)
 
