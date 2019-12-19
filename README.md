@@ -36,7 +36,7 @@ The following documents are open for public comment.
 5. **[Service Provider Overlay Handbook (Volume 5)](TBD) –** Introduces overlays, which map the security functions of a service provider to the TIC capabilities
    * Overlays are under development and will be released at a later date
 6. **[Pilot Process Handbook](TBD) -** Establishes a framework for agencies to execute pilots
-7. **[NCPS Cloud Reference Architecture](TBD) -** Explains how agencies can satisfy CISA's EINSTEIN cloud requirements*
+7. **[NCPS Cloud Reference Architecture](TBD) -** Begins to explains how agencies can satisfy CISA's EINSTEIN cloud requirements*
 
 Additional information regarding TIC 3.0  documentation can be found on the [CISA website](https://www.cisa.gov/trusted-internet-connections). Historical TIC program documentation has been archived to the TIC page on [OMB MAX](https://community.max.gov/x/I4R_Ew).
 
