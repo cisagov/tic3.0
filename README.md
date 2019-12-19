@@ -45,6 +45,8 @@ _*The National Cybersecurity Protection System (NCPS) is supporting the TIC mode
 ## Sites and Links
 Official TIC Homepage https://www.cisa.gov/trusted-internet-connections
 
+TIC 3.0 Document Repository https://www.cisa.gov/publication/tic-documents-public-comment
+
 TIC 3.0 Information for Federal Agencies https://community.max.gov/x/I4R_Ew
 
 Service Provider Overlays https://github.com/cisagov/tic3.0/tree/SPOverlay
