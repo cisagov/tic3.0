@@ -13,21 +13,14 @@ Note: Historical TIC program documentation has been archived to the TIC page on 
 ## Guidance Documents
 The following draft TIC guidance documents are sequential in nature and should be read in the following order to gain a complete understanding of the modernized initiative: 
 
-**1. Program Guidebook (Volume 1) –** Outlines the modernized TIC program and includes its historical context
-
-**2. Reference Architecture (Volume 2) –** Defines the concepts of the program to guide and constrain the diverse implementations of the security capabilities
-
-**3. Security Capabilities Handbook (Volume 3) –** Indexes security capabilities relevant to TIC
-
-**4. Use Case Handbook (Volume 4) –** Introduces use cases, which describe an implementation of TIC for each identified use
-    
-   **o Traditional TIC Use Case –** Describes the architecture and security capabilities guidance for the conventional TIC implementation
-   
-   **o Branch Office Use Case –** Describes the architecture and security capabilities guidance for remote offices
-    
-**5. Service Provider Overlay Handbook (Volume 5) –** Introduces overlays, which map the security functions of a service provider to the TIC capabilities
-
-   **o** Overlays are under development and will be released at a later date
+1. **Program Guidebook (Volume 1) –** Outlines the modernized TIC program and includes its historical context
+2. **Reference Architecture (Volume 2) –** Defines the concepts of the program to guide and constrain the diverse implementations of the security capabilities
+3. **Security Capabilities Handbook (Volume 3) –** Indexes security capabilities relevant to TIC
+4. **Use Case Handbook (Volume 4) –** Introduces use cases, which describe an implementation of TIC for each identified use
+   * **Traditional TIC Use Case –** Describes the architecture and security capabilities guidance for the conventional TIC implementation
+   * **Branch Office Use Case –** Describes the architecture and security capabilities guidance for remote offices
+5. **Service Provider Overlay Handbook (Volume 5) –** Introduces overlays, which map the security functions of a service provider to the TIC capabilities
+   * Overlays are under development and will be released at a later date
       
 The use cases, overlays, and security capabilities are going to continue to be developed, including those listed in OMB Memorandum M-19-26. CISA expects to post updates to the Security Capabilities Handbook, and additional TIC Use Cases, to the CISA website as they become available. CISA is coordinating with the Federal Chief Information Security Officers Council TIC Subcommittee to develop use cases above and beyond those listed in the memoranda, including use cases for Zero Trust, Partner Networks, and other pertinent scenarios. The TIC PMO is collaborating with cloud and other service providers to develop the overlays. Agencies should refer to the Service Provider Overlay Repository on GitHub to retrieve overlays produced by third-party service providers. 
 
