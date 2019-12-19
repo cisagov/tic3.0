@@ -28,7 +28,7 @@ The deadline for submitting comments is 11:59 PM EST on January 31, 2020.
 The following documents are open for public comment. 
 
 1. **[Program Guidebook (Volume 1)](TBD) –** Outlines the modernized TIC program and includes its historical context
-2. **Reference Architecture (Volume 2) –** Defines the concepts of the program to guide and constrain the diverse implementations of the security capabilities
+2. **[Reference Architecture (Volume 2)](TBD) –** Defines the concepts of the program to guide and constrain the diverse implementations of the security capabilities
 3. **[Security Capabilities Handbook (Volume 3)](TBD) –** Indexes security capabilities relevant to TIC
 4. **[Use Case Handbook (Volume 4)](TBD) –** Introduces use cases, which describe an implementation of TIC for each identified use
    * **[Traditional TIC Use Case](TBD) –** Describes the architecture and security capabilities guidance for the conventional TIC implementation
