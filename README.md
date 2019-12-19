@@ -20,7 +20,7 @@ You may contribute in two ways:
 
 1. **Issues [(GitHub)](https://github.com/cisagov/tic3.0/issues):** Content discussions are welcome via “issues.” Each issue is a conversation initiated by a member of the public. We encourage you to [join discussions](https://github.com/cisagov/tic3.0/issues) about existing issues, or start a new conversation by opening a [new issue](https://github.com/cisagov/tic3.0/issues/new) (you may be prompted to log in).
 
-2. **Email:** Send comments, content suggestions, or proposed revisions via email at tic@cisa.dhs.gov. All comments received via email will be posted publicly as a GitHub issue. (Your contact information will not be shared, though you will be identified by name and with any affiliation you offer.)
+2. **Email:** Send comments, content suggestions, or proposed revisions via email at tic@cisa.dhs.gov. Comments received via email may be posted publicly as a GitHub issue. (Contact information will not be shared, though names and any affiliation may be identified.)
 
 The deadline for submitting comments is 11:59 PM EST on January 31, 2020.
 
