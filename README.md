@@ -25,7 +25,7 @@ You may contribute in two ways:
 The deadline for submitting comments is 11:59 PM EST on January 31, 2020.
 
 ## Documents for Public Comment
-The following documents are open for public comment and can be found on the [TIC document respository page](https://www.cisa.gov/publication/tic-documents-public-comment) on the CISA website.  
+The following documents are open for public comment and can be found on the [TIC document repository page](https://www.cisa.gov/publication/tic-documents-public-comment) on the CISA website.  
 
 1. **Program Guidebook (Volume 1) –** Outlines the modernized TIC program and includes its historical context
 2. **Reference Architecture (Volume 2) –** Defines the concepts of the program to guide and constrain the diverse implementations of the security capabilities
