@@ -22,7 +22,7 @@ You may contribute in two ways:
 
 2. **Email:** Send comments, content suggestions, or proposed revisions via email at tic@cisa.dhs.gov. Comments received via email may be posted publicly as a GitHub issue. (Contact information will not be shared, though names and any affiliation may be identified.)
 
-The deadline for submitting comments is 11:59 PM EST on January 31, 2020.
+The deadline for submitting comments is 11:59 PM EST on March 2, 2020.
 
 ## Documents for Public Comment
 The following documents are open for public comment and can be found on the [TIC document repository page](https://www.cisa.gov/publication/tic-documents-public-comment) on the CISA website.  
