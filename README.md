@@ -3,14 +3,29 @@
 ## Purpose
 The purpose of the Trusted Internet Connections (TIC) initiative, as outlined in the [Office of Management and Budget (OMB) Memorandum M-19-26: Update to the Trusted Internet Connections (TIC) Initiative](https://www.whitehouse.gov/wp-content/uploads/2019/09/M-19-26.pdf), is to enhance network and perimeter security across the Federal Government. Initially, this was done through the consolidation of external connections and the deployment of common tools at these access points. While this prior work has been invaluable in securing federal networks and information, the program must adapt to modern architectures and frameworks for government information technology (IT) resource utilization. Accordingly, OMB’s memorandum provides an enhanced approach for implementing the TIC initiative that provides agencies with increased flexibility to use modern security capabilities. OMB’s memorandum also establishes a process for ensuring the TIC initiative is agile and responsive to advancements in technology and rapidly evolving threats.
 
-[OMB Memorandum M-19-26](https://www.whitehouse.gov/wp-content/uploads/2019/09/M-19-26.pdf) tasks the Department of Homeland Security (DHS) Cybersecurity and Infrastructure Security Agency (CISA) with modernizing the TIC initiative to help accelerate the adoption of cloud, mobile, and other emerging technologies. To further this effort, [CISA has released draft guidance](https://www.cisa.gov/trusted-internet-connections) to assist federal civilian agencies in their transition to contemporary architectures and services.
+## Request for Comments
+[OMB Memorandum M-19-26](https://www.whitehouse.gov/wp-content/uploads/2019/09/M-19-26.pdf) tasks the Department of Homeland Security (DHS) Cybersecurity and Infrastructure Security Agency (CISA) with modernizing the TIC initiative to help accelerate the adoption of cloud, mobile, and other emerging technologies. To further this effort, [CISA is releasing draft guidance](https://www.cisa.gov/trusted-internet-connections) to assist federal civilian agencies in their transition to contemporary architectures and services.
 
 The updated draft TIC guidance provides agencies with the flexibility to secure distinctive computing scenarios in accordance with their unique risk tolerance levels. Agencies are expected to reference the initiative’s Program Guidebook, Reference Architecture, and Security Capabilities Handbook to determine how to protect their environments to conform with their risk management strategy and the security considerations outlined in TIC Use Cases.
 
-**The official request for comments (RFC) period is currently closed.** CISA is adjudicating the comments from the RFC period, webinars, and roadshows in January 2020 and plans to release the final guidance documents in Spring 2020.
+## Key Questions
+CISA is interested in gathering agency responses focused on the following key questions: 
+1.	How does your agency expect to utilize the updated TIC guidance to modernize and secure its environments?
+2.	How does your agency expect to adopt the TIC Use Cases?
+3.	Does your agency have any suggestions for other use cases?
+4.	Are there additional documents or artifacts that would be helpful to agencies when implementing the TIC guidance? 
 
-## Documents
-The following documents can be found on the [TIC document repository page](https://www.cisa.gov/publication/tic-documents-public-comment) on the CISA website.  
+## How to Contribute
+You may contribute in two ways:
+
+1. **Issues [(GitHub)](https://github.com/cisagov/tic3.0/issues):** Content discussions are welcome via “issues.” Each issue is a conversation initiated by a member of the public. We encourage you to [join discussions](https://github.com/cisagov/tic3.0/issues) about existing issues, or start a new conversation by opening a [new issue](https://github.com/cisagov/tic3.0/issues/new) (you may be prompted to log in).
+
+2. **Email:** Send comments, content suggestions, or proposed revisions via email at tic@cisa.dhs.gov. Comments received via email may be posted publicly as a GitHub issue. (Contact information will not be shared, though names and any affiliation may be identified.)
+
+**The deadline for submitting comments has been extended from 11:59 PM EST on January 31, 2020 to February 7, 2020.** 
+
+## Documents for Public Comment
+The following documents are open for public comment and can be found on the [TIC document repository page](https://www.cisa.gov/publication/tic-documents-public-comment) on the CISA website.  
 
 1. **Program Guidebook (Volume 1) –** Outlines the modernized TIC program and includes its historical context
 2. **Reference Architecture (Volume 2) –** Defines the concepts of the program to guide and constrain the diverse implementations of the security capabilities
