@@ -7,7 +7,7 @@ The purpose of the Trusted Internet Connections (TIC) initiative, as outlined in
 
 The updated draft TIC guidance provides agencies with the flexibility to secure distinctive computing scenarios in accordance with their unique risk tolerance levels. Agencies are expected to reference the initiative’s Program Guidebook, Reference Architecture, and Security Capabilities Handbook to determine how to protect their environments to conform with their risk management strategy and the security considerations outlined in TIC Use Cases.
 
-**The official request for comments (RFC) period is currently closed.** CISA is adjudicating the comments from the RFC period, webinars, and roadshows in January 2020 and plans to release the final guidance documents in Spring 2020.
+**The official request for comments (RFC) period is currently closed.** CISA is adjudicating the comments from the RFC period, webinars, and roadshows in January 2020 and plans to release the final guidance documents in Summer 2020.
 
 ## Documents
 The following documents can be found on the [TIC document repository page](https://www.cisa.gov/publication/tic-documents-public-comment) on the CISA website.
@@ -19,7 +19,6 @@ The following documents can be found on the [TIC document repository page](https
    * **Traditional TIC Use Case –** Describes the architecture and security capabilities guidance for the conventional TIC implementation
    * **Branch Office Use Case –** Describes the architecture and security capabilities guidance for remote offices
 5. **Service Provider Overlay Handbook (Volume 5) –** Introduces overlays, which map the security functions of a service provider to the TIC capabilities
-   * Overlays are under development and will be released at a later date
 6. **Pilot Process Handbook -** Establishes a framework for agencies to execute pilots
 7. **NCPS Cloud Reference Architecture -** Begins to explains how agencies can satisfy CISA's EINSTEIN cloud requirements*
 
@@ -33,5 +32,3 @@ Official TIC Homepage https://www.cisa.gov/trusted-internet-connections
 TIC 3.0 Document Repository https://www.cisa.gov/publication/tic-documents
 
 TIC 3.0 Information for Federal Agencies https://community.max.gov/x/I4R_Ew
-
-Service Provider Overlays https://github.com/cisagov/tic3.0/tree/SPOverlay
