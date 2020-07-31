@@ -7,7 +7,10 @@ The purpose of the Trusted Internet Connections (TIC) initiative, as outlined in
 
 The updated draft TIC guidance provides agencies with the flexibility to secure distinctive computing scenarios in accordance with their unique risk tolerance levels. Agencies are expected to reference the initiative’s Program Guidebook, Reference Architecture, and Security Capabilities Handbook to determine how to protect their environments to conform with their risk management strategy and the security considerations outlined in TIC Use Cases.
 
-**The official request for comments (RFC) period is currently closed.** CISA is adjudicating the comments from the RFC period, webinars, and roadshows in January 2020 and plans to release the final guidance documents in Summer 2020.
+On December 20, 2019, CISA released eight draft documents as TIC 3.0 guidance for public comments. A request for comments (RFC) period was opened to provide the public with the opportunity to provide their perspectives on the new guidance. Over the seven weeks following the release, approximately 30 combined government and industry organizations sent comments to CISA. CISA plans to release the final guidance documents in Summer 2020.
+ 
+**Please visit the CISA website for the latest information: https://www.cisa.gov/trusted-internet-connections**
+
 
 ## Documents
 The following documents can be found on the [TIC document repository page](https://www.cisa.gov/publication/tic-documents-public-comment) on the CISA website.
